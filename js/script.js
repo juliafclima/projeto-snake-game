@@ -8,6 +8,7 @@ const buttonPlay = document.querySelector(".btn-play");
 const scoreNone = document.querySelector(".score");
 
 const audio = new Audio("../assets/audio.mp3");
+const audioPlay = new Audio("../assets/game-over.mp3");
 const size = 30;
 /* tamanho dos elementos */
 
